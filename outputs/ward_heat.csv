@@ -1,0 +1,182 @@
+ward,municipality,heat_c,lo,hi,rank_lo,rank_hi,top10_share
+Kathmandu-09,Kathmandu,3.226,2.761,3.693,1,1,1.0
+Kathmandu-28,Kathmandu,2.669,2.225,3.139,2,7,1.0
+Gokarneshwar-06,Gokarneshwar,2.642,2.378,3.036,2,8,0.998
+Gokarneshwar-05,Gokarneshwar,2.605,2.305,3.045,2,9,0.998
+Kathmandu-22,Kathmandu,2.505,1.936,3.257,2,10,0.98
+Kathmandu-12,Kathmandu,2.483,1.792,3.0,2,12,0.912
+Kathmandu-27,Kathmandu,2.462,1.843,3.289,2,10,0.99
+Kathmandu-11,Kathmandu,2.454,1.92,3.076,2,11,0.958
+Tokha-09,Tokha,2.216,1.484,3.023,4,19,0.542
+Lalitpur-06,Lalitpur,2.205,1.786,3.017,2,18,0.662
+Budhanilkantha-09,Budhanilkantha,2.113,1.693,2.585,8,16,0.318
+Kathmandu-06,Kathmandu,2.066,1.734,2.548,8,18,0.176
+Kathmandu-01,Kathmandu,2.034,1.339,2.513,10,24,0.084
+Kathmandu-32,Kathmandu,2.031,1.716,2.391,9,22,0.124
+Kathmandu-31,Kathmandu,1.978,1.348,2.49,11,22,0.02
+Bhaktapur-05,Bhaktapur,1.935,1.341,2.69,7,32,0.192
+Kathmandu-30,Kathmandu,1.814,1.017,2.352,14,42,0.0
+Kathmandu-13,Kathmandu,1.797,1.244,2.267,15,31,0.0
+Kathmandu-29,Kathmandu,1.787,1.278,2.349,15,29,0.0
+Lalitpur-08,Lalitpur,1.774,1.398,2.563,10,32,0.034
+Lalitpur-16,Lalitpur,1.72,0.894,2.315,13,47,0.0
+Kathmandu-05,Kathmandu,1.694,1.132,2.343,15,34,0.0
+Tokha-05,Tokha,1.691,1.143,1.981,15,40,0.002
+Kathmandu-16,Kathmandu,1.683,1.115,2.465,12,37,0.006
+Kathmandu-10,Kathmandu,1.668,1.119,2.352,18,37,0.0
+Kathmandu-07,Kathmandu,1.587,1.052,2.121,21,37,0.0
+Kathmandu-02,Kathmandu,1.578,0.983,2.426,15,42,0.002
+Lalitpur-09,Lalitpur,1.575,1.189,2.008,17,41,0.0
+Bhaktapur-03,Bhaktapur,1.536,0.963,1.995,17,51,0.0
+Lalitpur-17,Lalitpur,1.491,1.223,2.334,17,43,0.002
+Budhanilkantha-12,Budhanilkantha,1.458,1.128,1.906,19,44,0.0
+Kathmandu-04,Kathmandu,1.435,0.933,1.917,26,47,0.0
+Lalitpur-12,Lalitpur,1.418,0.787,2.049,22,60,0.0
+Gokarneshwar-08,Gokarneshwar,1.395,1.156,1.706,23,48,0.0
+Tarakeshwar-10,Tarakeshwar,1.388,0.895,1.861,26,50,0.0
+Kathmandu-26,Kathmandu,1.38,0.863,2.177,22,52,0.0
+Kathmandu-14,Kathmandu,1.373,0.983,1.76,25,48,0.0
+Kathmandu-17,Kathmandu,1.354,0.67,2.099,23,64,0.0
+Gokarneshwar-07,Gokarneshwar,1.32,1.141,1.542,20,56,0.0
+Bhaktapur-07,Bhaktapur,1.316,0.89,1.986,19,55,0.0
+Lalitpur-05,Lalitpur,1.3,0.923,2.05,21,55,0.0
+Bhaktapur-02,Bhaktapur,1.273,0.841,1.651,25,59,0.0
+Madhyapur Thimi-01,Madhyapur Thimi,1.269,0.954,1.541,28,56,0.0
+Tokha-08,Tokha,1.261,0.631,1.795,27,64,0.0
+Lalitpur-01,Lalitpur,1.24,0.812,1.89,27,59,0.0
+Tokha-10,Tokha,1.214,0.625,1.825,27,69,0.0
+Lalitpur-11,Lalitpur,1.197,0.816,1.704,33,60,0.0
+Gokarneshwar-09,Gokarneshwar,1.188,1.001,1.421,24,63,0.0
+Kathmandu-03,Kathmandu,1.18,0.752,1.6,38,59,0.0
+Nagarjun-04,Nagarjun,1.145,0.797,1.427,37,60,0.0
+Lalitpur-15,Lalitpur,1.123,0.838,1.457,30,64,0.0
+Lalitpur-03,Lalitpur,1.119,0.65,1.668,38,66,0.0
+Kathmandu-15,Kathmandu,1.092,0.742,1.54,38,63,0.0
+Lalitpur-20,Lalitpur,1.086,0.533,1.64,36,72,0.0
+Budhanilkantha-10,Budhanilkantha,1.024,0.744,1.445,42,63,0.0
+Tokha-11,Tokha,1.024,0.288,1.437,44,89,0.0
+Tokha-07,Tokha,1.011,0.52,1.37,45,74,0.0
+Bhaktapur-09,Bhaktapur,1.008,0.624,1.499,41,68,0.0
+Lalitpur-02,Lalitpur,0.924,0.412,1.451,45,80,0.0
+Bhaktapur-08,Bhaktapur,0.906,0.463,1.366,44,78,0.0
+Kageshwori Manohara-08,Kageshwori Manohara,0.904,0.671,1.129,42,77,0.0
+Madhyapur Thimi-06,Madhyapur Thimi,0.853,0.662,1.027,51,74,0.0
+Madhyapur Thimi-05,Madhyapur Thimi,0.835,0.606,1.098,50,73,0.0
+Bhaktapur-04,Bhaktapur,0.815,0.268,1.503,44,91,0.0
+Chandragiri-11,Chandragiri,0.8,0.437,1.148,52,82,0.0
+Lalitpur-28,Lalitpur,0.787,0.555,0.987,48,81,0.0
+Kageshwori Manohara-09,Kageshwori Manohara,0.747,0.497,1.02,60,76,0.0
+Mahalaxmi-02,Mahalaxmi,0.722,0.469,1.194,57,80,0.0
+Lalitpur-10,Lalitpur,0.713,0.339,1.21,54,88,0.0
+Tarakeshwar-09,Tarakeshwar,0.703,0.499,0.944,59,79,0.0
+Lalitpur-04,Lalitpur,0.696,0.285,1.138,52,92,0.0
+Madhyapur Thimi-04,Madhyapur Thimi,0.676,0.303,1.01,61,89,0.0
+Tokha-06,Tokha,0.634,0.151,1.064,60,97,0.0
+Nagarjun-10,Nagarjun,0.623,0.271,0.919,64,92,0.0
+Tarakeshwar-11,Tarakeshwar,0.61,0.028,1.089,59,105,0.0
+Bhaktapur-01,Bhaktapur,0.601,0.329,0.893,66,88,0.0
+Changunarayan-02,Changunarayan,0.599,0.338,0.931,56,92,0.0
+Mahalaxmi-01,Mahalaxmi,0.587,0.344,1.059,64,88,0.0
+Kageshwori Manohara-07,Kageshwori Manohara,0.531,0.269,0.745,61,96,0.0
+Budhanilkantha-08,Budhanilkantha,0.519,0.374,0.694,69,90,0.0
+Tokha-03,Tokha,0.508,0.28,0.79,64,93,0.0
+Madhyapur Thimi-03,Madhyapur Thimi,0.479,0.192,0.762,73,96,0.0
+Tarakeshwar-07,Tarakeshwar,0.475,0.123,0.801,56,102,0.0
+Madhyapur Thimi-02,Madhyapur Thimi,0.453,0.224,0.686,76,94,0.0
+Mahalaxmi-04,Mahalaxmi,0.445,0.252,0.65,74,94,0.0
+Kathmandu-08,Kathmandu,0.417,0.193,0.671,75,97,0.0
+Nagarjun-09,Nagarjun,0.4,0.051,0.688,75,103,0.0
+Lalitpur-13,Lalitpur,0.397,-0.102,0.979,62,113,0.0
+Changunarayan-09,Changunarayan,0.382,0.045,0.751,65,106,0.0
+Mahalaxmi-03,Mahalaxmi,0.359,0.107,0.717,77,100,0.0
+Budhanilkantha-07,Budhanilkantha,0.353,0.121,0.651,75,100,0.0
+Kageshwori Manohara-06,Kageshwori Manohara,0.349,0.139,0.549,75,101,0.0
+Tarakeshwar-01,Tarakeshwar,0.333,-0.179,0.731,60,117,0.0
+Tarakeshwar-02,Tarakeshwar,0.311,-0.147,0.697,63,115,0.0
+Nagarjun-02,Nagarjun,0.256,-0.111,0.834,72,115,0.0
+Bhaktapur-06,Bhaktapur,0.252,-0.248,0.928,64,122,0.0
+Lalitpur-25,Lalitpur,0.222,-0.184,0.518,78,115,0.0
+Lalitpur-29,Lalitpur,0.203,-0.051,0.438,84,110,0.0
+Suryabinayak-03,Suryabinayak,0.191,-0.008,0.446,86,107,0.0
+Chandragiri-15,Chandragiri,0.175,-0.157,0.454,85,115,0.0
+Kageshwori Manohara-05,Kageshwori Manohara,0.129,-0.124,0.404,82,114,0.0
+Tarakeshwar-06,Tarakeshwar,0.104,-0.116,0.31,88,113,0.0
+Madhyapur Thimi-09,Madhyapur Thimi,0.091,-0.091,0.284,94,112,0.0
+Kirtipur-01,Kirtipur,0.079,-0.368,0.399,90,127,0.0
+Mahalaxmi-05,Mahalaxmi,-0.007,-0.215,0.185,99,118,0.0
+Lalitpur-14,Lalitpur,-0.011,-0.396,0.429,90,125,0.0
+Changunarayan-01,Changunarayan,-0.024,-0.221,0.164,99,119,0.0
+Tokha-02,Tokha,-0.037,-0.364,0.243,93,128,0.0
+Tokha-04,Tokha,-0.049,-0.347,0.289,94,127,0.0
+Bhaktapur-10,Bhaktapur,-0.053,-0.363,0.378,91,128,0.0
+Kageshwori Manohara-04,Kageshwori Manohara,-0.085,-0.372,0.267,91,129,0.0
+Suryabinayak-02,Suryabinayak,-0.085,-0.29,0.138,102,124,0.0
+Budhanilkantha-03,Budhanilkantha,-0.086,-0.393,0.158,98,128,0.0
+Changunarayan-03,Changunarayan,-0.096,-0.33,0.19,98,126,0.0
+Suryabinayak-05,Suryabinayak,-0.117,-0.459,0.154,99,132,0.0
+Tarakeshwar-08,Tarakeshwar,-0.156,-0.489,0.305,96,134,0.0
+Kirtipur-10,Kirtipur,-0.166,-0.629,0.134,100,134,0.0
+Lalitpur-26,Lalitpur,-0.184,-0.408,-0.001,107,126,0.0
+Budhanilkantha-06,Budhanilkantha,-0.184,-0.346,0.025,106,127,0.0
+Lalitpur-27,Lalitpur,-0.245,-0.644,0.073,102,136,0.0
+Godawari-12,Godawari,-0.271,-0.712,0.18,96,140,0.0
+Lalitpur-23,Lalitpur,-0.281,-0.558,-0.049,109,134,0.0
+Kirtipur-08,Kirtipur,-0.295,-0.659,-0.043,109,138,0.0
+Lalitpur-21,Lalitpur,-0.319,-0.813,0.175,96,145,0.0
+Budhanilkantha-04,Budhanilkantha,-0.341,-0.535,-0.138,112,137,0.0
+Changunarayan-08,Changunarayan,-0.377,-0.685,0.014,107,142,0.0
+Madhyapur Thimi-07,Madhyapur Thimi,-0.38,-0.655,-0.109,113,142,0.0
+Mahalaxmi-07,Mahalaxmi,-0.43,-0.67,-0.215,119,142,0.0
+Godawari-13,Godawari,-0.447,-0.869,-0.016,108,148,0.0
+Chandragiri-14,Chandragiri,-0.471,-0.752,-0.179,116,145,0.0
+Budhanilkantha-11,Budhanilkantha,-0.477,-0.619,-0.283,120,142,0.0
+Dakshinkali-03,Dakshinkali,-0.48,-1.022,0.128,100,154,0.0
+Kirtipur-09,Kirtipur,-0.504,-0.85,-0.228,121,147,0.0
+Changunarayan-07,Changunarayan,-0.523,-0.773,-0.276,121,147,0.0
+Lalitpur-18,Lalitpur,-0.537,-0.924,-0.16,117,152,0.0
+Lalitpur-24,Lalitpur,-0.574,-0.911,-0.267,123,150,0.0
+Kirtipur-06,Kirtipur,-0.587,-1.07,-0.08,112,155,0.0
+Chandragiri-13,Chandragiri,-0.598,-0.866,-0.321,124,150,0.0
+Suryabinayak-10,Suryabinayak,-0.635,-0.915,-0.329,124,155,0.0
+Gokarneshwar-02,Gokarneshwar,-0.681,-0.98,-0.431,128,154,0.0
+Nagarjun-05,Nagarjun,-0.684,-0.997,-0.362,126,156,0.0
+Tarakeshwar-04,Tarakeshwar,-0.691,-0.942,-0.153,117,156,0.0
+Chandragiri-05,Chandragiri,-0.705,-1.01,-0.382,126,156,0.0
+Kageshwori Manohara-02,Kageshwori Manohara,-0.713,-1.109,-0.27,119,159,0.0
+Chandragiri-12,Chandragiri,-0.723,-1.109,-0.385,128,158,0.0
+Mahalaxmi-06,Mahalaxmi,-0.74,-1.013,-0.409,130,157,0.0
+Chandragiri-10,Chandragiri,-0.768,-1.066,-0.461,132,157,0.0
+Budhanilkantha-13,Budhanilkantha,-0.777,-1.092,-0.494,132,160,0.0
+Shankharapur-09,Shankharapur,-0.828,-1.094,-0.567,134,160,0.0
+Kirtipur-05,Kirtipur,-0.866,-1.234,-0.612,140,162,0.0
+Godawari-14,Godawari,-0.883,-1.231,-0.593,140,161,0.0
+Kageshwori Manohara-03,Kageshwori Manohara,-0.89,-1.182,-0.624,135,162,0.0
+Madhyapur Thimi-08,Madhyapur Thimi,-0.891,-1.082,-0.681,142,161,0.0
+Tarakeshwar-05,Tarakeshwar,-0.896,-1.107,-0.621,138,160,0.0
+Lalitpur-22,Lalitpur,-0.911,-1.278,-0.588,139,162,0.0
+Kirtipur-02,Kirtipur,-0.961,-1.36,-0.643,142,166,0.0
+Suryabinayak-04,Suryabinayak,-0.977,-1.214,-0.681,141,163,0.0
+Dakshinkali-02,Dakshinkali,-0.984,-1.381,-0.467,133,165,0.0
+Kirtipur-07,Kirtipur,-0.988,-1.35,-0.742,146,165,0.0
+Chandragiri-08,Chandragiri,-0.995,-1.38,-0.627,142,165,0.0
+Kirtipur-03,Kirtipur,-1.143,-1.496,-0.877,153,168,0.0
+Nagarjun-06,Nagarjun,-1.183,-1.557,-0.805,149,168,0.0
+Changunarayan-05,Changunarayan,-1.296,-1.527,-1.04,157,168,0.0
+Changunarayan-04,Changunarayan,-1.346,-1.621,-1.045,156,170,0.0
+Kirtipur-04,Kirtipur,-1.347,-1.679,-1.064,160,172,0.0
+Mahalaxmi-08,Mahalaxmi,-1.415,-1.639,-1.144,161,169,0.0
+Dakshinkali-04,Dakshinkali,-1.473,-1.984,-0.817,152,176,0.0
+Tarakeshwar-03,Tarakeshwar,-1.476,-1.792,-1.152,160,174,0.0
+Suryabinayak-08,Suryabinayak,-1.564,-1.808,-1.269,162,175,0.0
+Suryabinayak-01,Suryabinayak,-1.614,-1.839,-1.302,164,174,0.0
+Shankharapur-07,Shankharapur,-1.619,-1.952,-1.3,164,175,0.0
+Nagarjun-07,Nagarjun,-1.711,-1.97,-1.46,167,177,0.0
+Godawari-01,Godawari,-1.717,-2.075,-1.361,167,177,0.0
+Shankharapur-06,Shankharapur,-1.798,-2.046,-1.525,169,177,0.0
+Gokarneshwar-04,Gokarneshwar,-1.856,-2.087,-1.6,170,178,0.0
+Suryabinayak-06,Suryabinayak,-1.884,-2.181,-1.612,170,179,0.0
+Suryabinayak-09,Suryabinayak,-2.048,-2.372,-1.686,172,179,0.0
+Chandragiri-01,Chandragiri,-2.098,-2.477,-1.742,172,179,0.0
+Shankharapur-08,Shankharapur,-2.171,-2.544,-1.747,174,179,0.0
+Suryabinayak-07,Suryabinayak,-2.713,-2.96,-2.451,180,181,0.0
+Budhanilkantha-02,Budhanilkantha,-2.758,-2.995,-2.558,180,181,0.0
